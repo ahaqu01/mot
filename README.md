@@ -77,7 +77,7 @@ device: torch.device object, 推理时的device<br>
 
 **you can use it as submodule**
 
-在自己的项目目录下，git submodule add  https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/mot.git
+在自己的项目目录下，git submodule add  https://github.com/ahaqu01/mot.git
 
 便会在项目目录下下载到mot相关代码
 
