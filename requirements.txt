@@ -1,0 +1,8 @@
+numpy==1.20.2
+opencv-python==4.5.4.60
+opencv_contrib_python==4.5.4.60
+opencv-python-headless==4.5.4.60
+PyYAML==6.0
+rfconv==0.0.2b20210406
+scipy==1.7.2
+torch==1.8.0
